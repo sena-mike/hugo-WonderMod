@@ -83,7 +83,7 @@ body:not(.dark) #sun {
     cursor: pointer;
 }
 
-@media screen and (max-width: 900px) {
+/* @media screen and (max-width: 900px) {
     #menu {
         display: none;
     }
@@ -127,7 +127,7 @@ body:not(.dark) #sun {
     #menu li + li {
         margin-inline-start: 0;
     }
-}
+} */
 
 .overlay {
     position: fixed;
